@@ -2,3 +2,5 @@
 
 Name: Joshua Franklin
 Assignment: Lab 4
+
+Partner: Megan Felsch
